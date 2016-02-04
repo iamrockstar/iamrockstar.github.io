@@ -8,7 +8,8 @@
 # Site settings
 title: I AM ROCKSTAR
 email: rockstar@10x.com
-description: > I am a rockstar and you can be too
+description: >
+  I am a rockstar and you can be too
 baseurl: "" # the subpath of your site, e.g. /blog
 
 # Build settings
